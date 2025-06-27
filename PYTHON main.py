@@ -55,3 +55,5 @@ plt.xlabel('Disease Category')
 plt.ylabel('Age')
 plt.xticks(rotation=45)
 plt.show()
+
+
